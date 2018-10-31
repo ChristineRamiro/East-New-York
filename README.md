@@ -15,7 +15,7 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-![JSON MAP](https://github.com/ChristineRamiro/neighborhoodprojectcompsci/blob/master/JSON%20MAPPPP.png "Map of East New York")
+![JSON MAP](JSON MAPPPP.png)
 
 - Bulleted
 - List
