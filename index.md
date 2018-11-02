@@ -2,6 +2,8 @@
 
 ### Name of neighborhood: East New York
 
+![JSON MAP](JSON MAPPPP.png)
+
 ### Demographics & Statistics:
 
 #### Population by Sex
@@ -32,8 +34,6 @@
 | Two+     | 1          |
 | Hispanic | 35         |
 
-
-![JSON MAP](JSON MAPPPP.png)
 
 Station Usage Statistics
 
