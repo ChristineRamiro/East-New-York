@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to my website
 
-You can use the [editor on GitHub](https://github.com/ChristineRamiro/neighborhoodprojectcompsci/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Name of neighborhood: East New York
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+JSON MAPPPP.png
 
 ### Markdown
 
