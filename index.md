@@ -35,10 +35,12 @@
 | Hispanic | 35         |
 
 
-Station Usage Statistics
+#### Station Usage Statistics
 
 ![ENTRIES](Screen Shot 2018-10-26 at 6.36.13 PM.png)
 
 ![EXITS](Screen Shot 2018-10-26 at 6.36.38 PM.png)
+
+![Differences](Screen Shot 2018-11-02 at 5.50.14 PM.png)
 
 
