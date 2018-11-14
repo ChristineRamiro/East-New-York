@@ -33,6 +33,7 @@
 | Other    | 1          |
 | Two+     | 1          |
 | Hispanic | 35         |
+|__________|____________|
 
 
 ### Station Usage Statistics
